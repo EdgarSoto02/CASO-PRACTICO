@@ -1,0 +1,6 @@
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.Entities\bin\Debug\SisAcademico.Entities.dll
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.Entities\bin\Debug\SisAcademico.Entities.pdb
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.Entities\obj\Debug\SisAcademico.Entities.csproj.AssemblyReference.cache
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.Entities\obj\Debug\SisAcademico.Entities.csproj.CoreCompileInputs.cache
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.Entities\obj\Debug\SisAcademico.Entities.dll
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.Entities\obj\Debug\SisAcademico.Entities.pdb

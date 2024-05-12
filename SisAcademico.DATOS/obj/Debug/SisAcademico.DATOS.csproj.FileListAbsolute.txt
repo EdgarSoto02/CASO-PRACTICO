@@ -1,0 +1,14 @@
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\bin\Debug\SisAcademico.DATOS.dll.config
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\bin\Debug\SisAcademico.DATOS.dll
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\bin\Debug\SisAcademico.DATOS.pdb
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\bin\Debug\EntityFramework.dll
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\bin\Debug\SisAcademico.Entities.dll
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\bin\Debug\SisAcademico.Entities.pdb
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\bin\Debug\EntityFramework.xml
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\obj\Debug\SisAcademico.DATOS.csproj.AssemblyReference.cache
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\obj\Debug\SisAcademico.DATOS.csproj.CoreCompileInputs.cache
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\obj\Debug\SisAcademico.DATOS.csproj.CopyComplete
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\obj\Debug\SisAcademico.DATOS.dll
+C:\Users\USER 17\source\repos\SisAcademico\SisAcademico.DATOS\obj\Debug\SisAcademico.DATOS.pdb
